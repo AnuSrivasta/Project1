@@ -1,0 +1,29 @@
+body {
+  background-color: #F47C7C;
+  
+}
+
+hr {
+  background-color: #001E6C;
+  border-style: bold;
+  width: 3%;
+  height: 3px;
+
+}
+h1{
+  font-family: cursive;
+  font-style: oblique;
+  color: #242F9B;
+}
+h2{
+  font-family:monospace;
+  color: #8CC0DE;
+}
+p{
+  font-family: sans-serif;
+  color: #712B75;
+}
+
+.circular{
+  border-radius: 100PX;
+}
